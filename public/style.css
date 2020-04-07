@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+
+h1 img{
+    width: 300px;
+}
+
+input{
+    border: 1px solid black;
+    background-color: #fdfdfd;
+    font-size: 20px;
+    padding: 4px;
+}
+
+button{
+    border: 1px solid black;
+    background-color: #d8d8d8;
+    font-size: 20px;
+    padding: 4px;
+}
+
+.resultado{
+    padding: 10px;
+    border: 1px solid #d8d8d8;
+    background-color: #fdfdfd;
+}

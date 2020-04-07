@@ -1,0 +1,25 @@
+{
+  "name": "convertmoney",
+  "version": "1.0.0",
+  "description": "treinamento de codigo",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "author": "Jefferson Adriano da Silva",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "ejs": "^3.0.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+    
+  },
+  "jest":{
+    "collectCoverage":true
+  }
+
+}
